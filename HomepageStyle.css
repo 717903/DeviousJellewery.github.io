@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+.background {
+	background-color: black;
+}
+.Header{
+	display: flex;
+}
+.name {
+	display: block;
+	align-self: center;
+	color: darkgreen;
+	font-family: Impact;
+	font-size-adjust: auto;
+	text-align: center;
+}
+
+.logo {
+	z-index: 0;
+}
+
+.links{
+	align-content: space-between;
+	margin-left: 1050px;
+}
+
+.btn:{
+	
+}
+
+.slogan{
+	background-color: black;
+	color: white;
+	font-family: Impact;
+	font-size-adjust: auto;
+	text-align: center;
+}
+
+.showcase{
+	align-content: center;
+}
